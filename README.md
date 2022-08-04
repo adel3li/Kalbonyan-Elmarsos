@@ -19,7 +19,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![10%](https://progress-bar.dev/0/?title=Done)
+![20%](https://progress-bar.dev/20/?title=Done)
 <br />
 - ## Programming foundations path and HTML and CSS
 
@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![5%](https://progress-bar.dev/0/?title=Done)
+![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
