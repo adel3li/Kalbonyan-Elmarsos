@@ -19,7 +19,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![20%](https://progress-bar.dev/0/?title=Done)
+![10%](https://progress-bar.dev/0/?title=Done)
 <br />
 - ## Programming foundations path and HTML and CSS
 
